@@ -7,9 +7,11 @@ Welcome to my personal homepage.
 I am an undergraduate student majoring in math and information engineering in CUHK.
 
 ## About Me
-I am currently exchanging in KTH
-I am interested in ??? still on my way exploring...
-I am looking for opportunities in research right now🥹
+I am currently exchanging in KTH.
+
+I am interested in ??? (still on my way exploring...)
+
+I am looking for opportunities in research right now🥹.
 
 ## Projects
 - **Machine Learning Project**  
