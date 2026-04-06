@@ -6,7 +6,7 @@ Welcome to my personal homepage.
 
 I am an undergraduate student majoring in math and information engineering in CUHK.
 
-![Profile photo](/profile.jpg)
+<img src="/profile.jpg" width="200">
 
 ## About Me
 I am currently exchanging in KTH.
@@ -21,6 +21,7 @@ I am looking for opportunities in research right now🥹.
 
 - **Algorithms Coursework**  
   Worked on graph problems, reductions, and dynamic programming.
+
 ## CV
 https://limewire.com/d/yJsSP#gXGRHLLqLo  
 
