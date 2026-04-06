@@ -5,6 +5,7 @@
 Welcome to my personal homepage. 
 
 I am an undergraduate student majoring in math and information engineering in CUHK.
+
 [Life Blog](/life/)
 
 <img src="/profile.jpg" width="200">
