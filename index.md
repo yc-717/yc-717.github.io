@@ -2,13 +2,11 @@
 
 # Hi, I'm Yuchen
 
-Welcome to my personal homepage. 
+Welcome to my personal homepage. [Life Blog](/life/)
 
 I am an undergraduate student majoring in math and information engineering in CUHK.
 
-[Life Blog](/life/)
-
-<img src="/profile.jpg" width="200">
+<img src="/profile.jpg" width="180">
 
 ## About Me
 I am currently exchanging in KTH.
