@@ -1,18 +1,15 @@
----
-layout: default
-title: Home
----
+
 
 # Hi, I'm Yuchen
 
-Welcome to my personal homepage.
+Welcome to my personal homepage. 
 
-I am an undergraduate student interested in computer science, machine learning, and algorithms.
+I am an undergraduate student majoring in math and information engineering in CUHK.
 
 ## About Me
-I am currently studying ...
-I am interested in ...
-I am looking for opportunities in research and software development.
+I am currently exchanging in KTH
+I am interested in ??? still on my way exploring...
+I am looking for opportunities in research right now🥹
 
 ## Projects
 - **Machine Learning Project**  
@@ -20,6 +17,8 @@ I am looking for opportunities in research and software development.
 
 - **Algorithms Coursework**  
   Worked on graph problems, reductions, and dynamic programming.
+## CV
+https://limewire.com/d/yJsSP#gXGRHLLqLo  
 
 ## Contact
 - GitHub: [yc-717](https://github.com/yc-717)
