@@ -6,6 +6,8 @@ Welcome to my personal homepage.
 
 I am an undergraduate student majoring in math and information engineering in CUHK.
 
+![Profile photo](/profile.jpg)
+
 ## About Me
 I am currently exchanging in KTH.
 
