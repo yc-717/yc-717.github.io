@@ -11,9 +11,9 @@ I am an undergraduate student majoring in math and information engineering in CU
 ## About Me
 I am currently exchanging in KTH.
 
-I am interested in ??? (still on my way exploring...)
+I am interested in data analysis/ML/??? (still on my way exploring...)
 
-I am looking for opportunities in research right now🥹.
+I am looking for opportunities in research/internship right now🥹.
 
 ## Projects
 - **Machine Learning Project**  
@@ -26,5 +26,4 @@ I am looking for opportunities in research right now🥹.
 https://limewire.com/d/yJsSP#gXGRHLLqLo  
 
 ## Contact
-- GitHub: [yc-717](https://github.com/yc-717)
 - Email: xyc200607@icloud.com
